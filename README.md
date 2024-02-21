@@ -10,7 +10,6 @@
 - gamer
 - og coc player
 - video editor
-- searching for a rell!
 - and nothing
 ...
 <!---
