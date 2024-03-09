@@ -12,10 +12,11 @@ the projects I'm woking on right now:
 1. FireLemon
 2. NFT bazaar
 3. Tengu
-4. FireVenom
-5. Tessa AI(discord bot)
-6. XSS vun exploiter
-7. Bouse(idk)
+4. RichGold
+5. FireVenom
+6. Tessa AI(discord bot)
+7. XSS vun exploiter
+8. Bouse(idk)
 
 you can contact me using my Linkedin or discord and share your questions or ideas with me there :3
 ...
