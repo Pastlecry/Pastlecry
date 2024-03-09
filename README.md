@@ -2,7 +2,7 @@ Hi I put my projects that came to my mind here you can check them out!
 the skills i have:
 + Python
 + c++
-+ JavaScript
++ JavaScript(learning)
 + HTML
 + CSS
 + Linux
@@ -13,8 +13,9 @@ the projects I'm woking on right now:
 2. NFT bazaar
 3. Tengu
 4. FireVenom
-5. 
+5. Tessa AI(discord bot)
 6. XSS vun exploiter
+7. Bouse(idk)
 
 you can contact me using my Linkedin or discord and share your questions or ideas with me there :3
 ...
