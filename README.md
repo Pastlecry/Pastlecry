@@ -9,9 +9,12 @@ the skills i have:
 + Arduino
 
 the projects I'm woking on right now:
-1. NFT bazaar
-2. Tengu
-3. XSS vun exploiter
+1. FireLemon
+2. NFT bazaar
+3. Tengu
+4. FireVenom
+5. 
+6. XSS vun exploiter
 
 you can contact me using my Linkedin or discord and share your questions or ideas with me there :3
 ...
